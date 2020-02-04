@@ -5,30 +5,53 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Events](#events)
+- [Organizations](#organizations)
+- [Online communities](#online-communities)
 
+---
 
-## Section
+## Events
 
-About this section. Optional. Keep this short and focus on the list.
+A list of IT-related events, found in the Albania area.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+[Meetups](#meetups) • [Conferences](#conferences)
 
+### Meetups
 
-## Another Section
+- [Albania Developers User Group](https://www.meetup.com/Albania-Developers-User-Group/)
 
-### Subsection
+### Conferences
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [OSCAL - Open Source Conference Albania](https://oscal.openlabs.cc/)
 
+---
+
+## Organizations
+
+A list of IT-related organizations, found in the Albania area.
+
+[Incubators](#incubators)
+
+### Incubators
+
+- [Innovation Hub Tirana](https://www.facebook.com/innovationhubtirana/)
+
+---
+
+## Online communities
+
+A list of online communities, targeted to Albanian IT workers.
+
+- [Komuniteti i programuesve shqiptarë](https://www.facebook.com/groups/1476010482525138/?ref=br_rs)
+
+---
 
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
+---
 
 ## License
 
