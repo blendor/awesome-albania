@@ -44,6 +44,7 @@ A list of IT-related organizations, found in the Albania area.
 A list of online communities, targeted to Albanian IT workers.
 
 - [Komuniteti i programuesve shqiptarë](https://www.facebook.com/groups/1476010482525138/?ref=br_rs)
+- [Informatika Shqiptare (forum)](https://forum.itshqip.com/)
 
 ---
 
